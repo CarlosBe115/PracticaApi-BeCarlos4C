@@ -25,3 +25,13 @@ C:\Users\carna\Desktop\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\An
 C:\Users\carna\Desktop\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.csproj.CoreCompileInputs.cache
 C:\Users\carna\Desktop\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.dll
 C:\Users\carna\Desktop\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.pdb
+C:\Users\carna\OneDrive\Documentos\GitHub\PracticaApi-BeCarlos4C\AnimalSpawn.Domain\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.deps.json
+C:\Users\carna\OneDrive\Documentos\GitHub\PracticaApi-BeCarlos4C\AnimalSpawn.Domain\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.dll
+C:\Users\carna\OneDrive\Documentos\GitHub\PracticaApi-BeCarlos4C\AnimalSpawn.Domain\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.pdb
+C:\Users\carna\OneDrive\Documentos\GitHub\PracticaApi-BeCarlos4C\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.csproj.AssemblyReference.cache
+C:\Users\carna\OneDrive\Documentos\GitHub\PracticaApi-BeCarlos4C\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carna\OneDrive\Documentos\GitHub\PracticaApi-BeCarlos4C\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.AssemblyInfoInputs.cache
+C:\Users\carna\OneDrive\Documentos\GitHub\PracticaApi-BeCarlos4C\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.AssemblyInfo.cs
+C:\Users\carna\OneDrive\Documentos\GitHub\PracticaApi-BeCarlos4C\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.csproj.CoreCompileInputs.cache
+C:\Users\carna\OneDrive\Documentos\GitHub\PracticaApi-BeCarlos4C\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.dll
+C:\Users\carna\OneDrive\Documentos\GitHub\PracticaApi-BeCarlos4C\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.pdb

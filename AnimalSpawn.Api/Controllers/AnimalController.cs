@@ -22,6 +22,7 @@ namespace AnimalSpawn.Api.Controllers
             this._mapper = mapper;
         }
 
+        //Controladores para obtener informacion 
         [HttpGet]
         public IActionResult Get()
         {
@@ -40,7 +41,7 @@ namespace AnimalSpawn.Api.Controllers
             return Ok(response);
 
         }
-
+        //Controladores para publicar informacion 
         [HttpPost]
         public async Task<IActionResult> Post(AnimalRequestDto animalDto)
         {
@@ -51,6 +52,7 @@ namespace AnimalSpawn.Api.Controllers
             return Ok(response);
         }
 
+        //Controladores para borrar informacion 
         [HttpDelete("{id:int}")]
         public async Task<ActionResult> Delete(int id)
         {
@@ -58,7 +60,7 @@ namespace AnimalSpawn.Api.Controllers
             var response = new ApiResponse<bool>(true);
             return Ok(response);
         }
-
+        //Controladores para actualizar informacion 
         [HttpPut]
         public async Task<IActionResult> Put(int id, AnimalRequestDto animalDto)
         {

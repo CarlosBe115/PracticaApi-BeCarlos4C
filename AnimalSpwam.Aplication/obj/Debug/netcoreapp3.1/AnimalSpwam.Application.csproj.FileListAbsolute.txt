@@ -21,3 +21,16 @@ C:\Users\carna\Desktop\AnimalSpawn\AnimalSpwam.Aplication\obj\Debug\netcoreapp3.
 C:\Users\carna\Desktop\AnimalSpawn\AnimalSpwam.Aplication\obj\Debug\netcoreapp3.1\AnimalSpwam.Application.csproj.CopyComplete
 C:\Users\carna\Desktop\AnimalSpawn\AnimalSpwam.Aplication\obj\Debug\netcoreapp3.1\AnimalSpwam.Application.dll
 C:\Users\carna\Desktop\AnimalSpawn\AnimalSpwam.Aplication\obj\Debug\netcoreapp3.1\AnimalSpwam.Application.pdb
+C:\Users\carna\OneDrive\Documentos\GitHub\PracticaApi-BeCarlos4C\AnimalSpwam.Aplication\bin\Debug\netcoreapp3.1\AnimalSpwam.Application.deps.json
+C:\Users\carna\OneDrive\Documentos\GitHub\PracticaApi-BeCarlos4C\AnimalSpwam.Aplication\bin\Debug\netcoreapp3.1\AnimalSpwam.Application.dll
+C:\Users\carna\OneDrive\Documentos\GitHub\PracticaApi-BeCarlos4C\AnimalSpwam.Aplication\bin\Debug\netcoreapp3.1\AnimalSpwam.Application.pdb
+C:\Users\carna\OneDrive\Documentos\GitHub\PracticaApi-BeCarlos4C\AnimalSpwam.Aplication\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.dll
+C:\Users\carna\OneDrive\Documentos\GitHub\PracticaApi-BeCarlos4C\AnimalSpwam.Aplication\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.pdb
+C:\Users\carna\OneDrive\Documentos\GitHub\PracticaApi-BeCarlos4C\AnimalSpwam.Aplication\obj\Debug\netcoreapp3.1\AnimalSpwam.Application.csproj.AssemblyReference.cache
+C:\Users\carna\OneDrive\Documentos\GitHub\PracticaApi-BeCarlos4C\AnimalSpwam.Aplication\obj\Debug\netcoreapp3.1\AnimalSpwam.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carna\OneDrive\Documentos\GitHub\PracticaApi-BeCarlos4C\AnimalSpwam.Aplication\obj\Debug\netcoreapp3.1\AnimalSpwam.Application.AssemblyInfoInputs.cache
+C:\Users\carna\OneDrive\Documentos\GitHub\PracticaApi-BeCarlos4C\AnimalSpwam.Aplication\obj\Debug\netcoreapp3.1\AnimalSpwam.Application.AssemblyInfo.cs
+C:\Users\carna\OneDrive\Documentos\GitHub\PracticaApi-BeCarlos4C\AnimalSpwam.Aplication\obj\Debug\netcoreapp3.1\AnimalSpwam.Application.csproj.CoreCompileInputs.cache
+C:\Users\carna\OneDrive\Documentos\GitHub\PracticaApi-BeCarlos4C\AnimalSpwam.Aplication\obj\Debug\netcoreapp3.1\AnimalSpwam.Application.csproj.CopyComplete
+C:\Users\carna\OneDrive\Documentos\GitHub\PracticaApi-BeCarlos4C\AnimalSpwam.Aplication\obj\Debug\netcoreapp3.1\AnimalSpwam.Application.dll
+C:\Users\carna\OneDrive\Documentos\GitHub\PracticaApi-BeCarlos4C\AnimalSpwam.Aplication\obj\Debug\netcoreapp3.1\AnimalSpwam.Application.pdb

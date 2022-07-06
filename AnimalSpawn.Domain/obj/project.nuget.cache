@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "b9HD3p7JcOAEYRWrsaTLhXrjH9JJNrLieiHvnZQlYWL23WR6ZglafZB6g+fl/PGf6AWb66JTy630f1e8p0AjYQ==",
+  "dgSpecHash": "XUHl0wMQ3axur1/NJ/OXB/NrNGIaQE9g2FTso7mADRqGmVsYUXWlPRoRayhFlKSGxAYuVgnSB7Zj3til2WiluQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\carna\\Desktop\\AnimalSpawn\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\carna\\OneDrive\\Documentos\\GitHub\\PracticaApi-BeCarlos4C\\AnimalSpawn.Domain\\AnimalSpawn.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carna\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\carna\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\carna\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

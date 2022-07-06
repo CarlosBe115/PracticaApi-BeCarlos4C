@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5T01FSRGX7vpzYuHr3BBq9/MMfUL2LLTK37rYoKbUN69hwucU5cWBPpM0hThEwELX5XeKXLIZl0oyHW3wuJCxw==",
+  "dgSpecHash": "yLbU182phRGGjRZmM9N14w1ug690RD/mgRtBWUhyf8E7K2w4ff0aaQfP/v8K9yjaDTVd1U2X06bm5/08LZbCeA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\carna\\Desktop\\AnimalSpawn\\AnimalSpwam.Aplication\\AnimalSpwam.Application.csproj",
+  "projectFilePath": "C:\\Users\\carna\\OneDrive\\Documentos\\GitHub\\PracticaApi-BeCarlos4C\\AnimalSpwam.Aplication\\AnimalSpwam.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carna\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
     "C:\\Users\\carna\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
@@ -10,7 +10,10 @@
     "C:\\Users\\carna\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
     "C:\\Users\\carna\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
     "C:\\Users\\carna\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
-    "C:\\Users\\carna\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+    "C:\\Users\\carna\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\carna\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\carna\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\carna\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }
